@@ -6,9 +6,9 @@
 ![Hardware](https://img.shields.io/badge/Hardware-T4%20GPU%20Compatible-green)
 ![License](https://img.shields.io/badge/License-MIT-red)
 
-> Ostim Teknik Üniversitesi - Yapay Zeka Mühendisliği
-> Ders: Büyük Dil Modelleri (LLM)
-> Öğrenci: Serhat Tileklioğlu (220212010)
+> **Ostim Teknik Üniversitesi - Yapay Zeka Mühendisliği**
+> **Ders: Büyük Dil Modelleri (LLM)**
+> **Öğrenci: Serhat Tileklioğlu (220212010)**
 
 ## 📖 Proje Özeti
 Bu proje, dış kaynaklı API (OpenAI, Anthropic vb.) bağımlılığı olmadan, yerel donanım üzerinde çalışabilen Türkçe talimat takip (Instruction Following) yeteneğine sahip bir Büyük Dil Modeli geliştirmek amacıyla yapılmıştır.
