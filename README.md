@@ -107,7 +107,7 @@ Bu proje MIT lisansı ile lisanslanmıştır. Kullanılan temel model (Llama-3) 
 
 ---
 
-*Bu proje Ostim Teknik Üniversitesi Yapay Zeka Mühendisliği bölümü bitirme/ders projesi kapsamında hazırlanmıştır.*
+*Bu proje Ostim Teknik Üniversitesi Yapay Zeka Mühendisliği bölümü ders projesi kapsamında hazırlanmıştır.*
 
 ```
 
