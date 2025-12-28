@@ -99,7 +99,7 @@ Github dosya boyutu sınırları (Max 100MB) nedeniyle, eğitilmiş ve GGUF form
 * **Boyut:** ~4.9 GB
 * **Uyumluluk:** llama.cpp, LM Studio, Ollama
 
-[👉 **MODELİ İNDİRMEK İÇİN TIKLAYIN (Google Drive)](https://www.google.com/search?q=https://colab.research.google.com/drive/1hDwyGjiReqMmWrIxJSSy9pdaQFi_H8gZ?usp=sharing)**
+[👉 **MODELİ İNDİRMEK İÇİN TIKLAYIN (Google Drive)](https://colab.research.google.com/drive/1hDwyGjiReqMmWrIxJSSy9pdaQFi_H8gZ?usp=sharing)**
 
 ## 📜 Lisans
 
